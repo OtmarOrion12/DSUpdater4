@@ -1,7 +1,11 @@
 {
   "latestVersion": "2.0.0",
-  "minimumVersion": "99.0.0",
-  "downloadUrl": "",
-  "forceUpdate": true,
-  "message": "A required DS4Aim update is available."
+  "minimumVersion": "2.0.0",
+  "downloadUrl": "https://github.com/YOURNAME/YOURREPO/releases/download/v2.0.0/Microsoft.zip",
+  "forceUpdate": false,
+  "changelog": [
+    "New launcher",
+    "New license system",
+    "Improved updater"
+  ]
 }
