@@ -1,7 +1,7 @@
 {
   "latestVersion": "2.0.0",
-  "minimumVersion": "2.0.0",
-  "downloadUrl": "YOUR_ZIP_LINK",
-  "forceUpdate": false,
+  "minimumVersion": "99.0.0",
+  "downloadUrl": "YOUR_REAL_MICROSOFT_ZIP_LINK",
+  "forceUpdate": true,
   "message": "Testing updater."
 }
