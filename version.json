@@ -2,6 +2,7 @@
   "latestVersion": "4.0.1",
   "minimumVersion": "3.3.3",
   "downloadUrl": "https://github.com/OtmarOrion12/myapp/releases/download/v4.1.0/Microsofts.zip",
+  "updaterUrl": "https://github.com/OtmarOrion12/myapp/releases/download/v4.1.0/DS4Updater.exe",
   "forceUpdate": false,
   "message": "New Update"
 }
